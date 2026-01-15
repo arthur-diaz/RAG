@@ -1,0 +1,6 @@
+.env
+.venv/
+storage/
+.rag_settings.json
+.rag_conversations.json
+*.pyc
