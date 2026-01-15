@@ -1,4 +1,4 @@
-﻿# Domain Expert RAG Agent
+﻿# RAG
 
 This app builds a local RAG pipeline with LlamaIndex, reranking, and a Streamlit UI.
 
