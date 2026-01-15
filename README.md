@@ -58,5 +58,5 @@ streamlit run app.py
 
 - `max_turns` in `.rag_settings.json` controls how many recent turns are included as context.
 
-## Models and pricing
+
 
